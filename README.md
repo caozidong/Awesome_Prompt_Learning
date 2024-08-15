@@ -3,8 +3,7 @@
 # 1  Existing Surveys
 | Publication | Title                                                                                          | Highlight                                                                      |
 | ----------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Computers & Graphics 2024 | A survey of efficient fine-tuning methods for Vision-Language Models —
-Prompt and Adapter. | |
+| Computers & Graphics 2024 | A survey of efficient fine-tuning methods for Vision-Language Models, Prompt and Adapter. | |
 | Meta-Radiology 2023 | Review of large vision models and visual prompt engineering | For visual prompt, including trainable parameters in the input space or lightweight modules.|
 | Frontiers of Information Technology & Electronic Engineering 2024 | Prompt learning in computer vision: a survey |
 
